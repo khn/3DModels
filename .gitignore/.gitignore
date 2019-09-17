@@ -3,5 +3,3 @@
 *.ko
 *.obj
 *.elf
-# gcode
-*.gcode
